@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeevith-bs.github.io/Calculator/sitemap.xml
